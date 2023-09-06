@@ -1,0 +1,40 @@
+/* .price-box {
+    background-color: #595a59;
+    border-radius: 5px;
+    font-size: medium;
+    color: white; 
+  }
+   */
+
+.pricestyle {
+  display: flex;
+  direction: row;
+  align-self: center;
+  font-size: 0.75rem;
+  display: inline-block;
+}
+
+.hotstyle {
+  font-size: 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.img-size {
+  margin-top: -10px;
+  width: 90%;
+  max-height: 260px;
+}
+body {
+  background-color: blanchedalmond;
+}
+.container {
+  margin-left: 150px;
+}
+
+.margintop300 {
+  margin-top: 300px;
+}
+.margintop100 {
+  margin-top: 100px;
+}
